@@ -10,6 +10,7 @@
   "dependencies": {
     "jsonresume-theme-microdata": "^0.2.0",
     "jsonresume-theme-onepage-plus": "^1.0.1",
-    "jsonresume-theme-stackoverflow": "^2.0.2"
+    "jsonresume-theme-stackoverflow": "^2.0.2",
+    "resume-cli": "^3.1.2"
   }
 }
