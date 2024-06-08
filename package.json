@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "scripts": {
+    "export": "resume export resume.pdf --theme=jsonresume-theme-stackoverflow"
+  },
+  "author": "Christopher Arias",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsonresume-theme-microdata": "^0.2.0",
+    "jsonresume-theme-onepage-plus": "^1.0.1",
+    "jsonresume-theme-stackoverflow": "^2.0.2"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Christopher Arias",
+    "label": "Fullstack Engineer",
+    "image": "",
+    "email": "christopher.arias.jr@icloud.com",
+    "phone": "(928) 404-3160",
+    "summary": "",
+    "location": {
+      "city": "Seattle",
+      "region": "WA"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "christopher-arias-66b959176",
+        "url": "https://www.linkedin.com/in/christopher-arias-66b959176/"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Typescript",
+        "Javascript",
+        "React",
+        "Redux",
+        "Recoil",
+        "Tailwind.css",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "AWS Lambda",
+        "DynamoDB",
+        "CouchDB",
+        "MySQL",
+        "API Design"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "AWS CDK",
+        "Jenkins",
+        "Docker"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Apple",
+      "location": "Seattle, WA",
+      "position": "UI Engineer",
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-04",
+      "summary": "",
+      "highlights": [
+        "Led the design, development, and launch of a new feature for the UI of an internal pipleine for machine learning products."
+      ]
+    },
+    {
+      "name": "Amazon",
+      "location": "Seattle, WA",
+      "position": "Fullstack Engineer",
+      "startDate": "2019-09-01",
+      "endDate": "2023-12-24",
+      "summary": "",
+      "highlights": [
+        "Designed and developed an internal messaging relay system that managed messages for all of North America delivery drivers",
+        "Designed, developed, and deployed from scratch a communication service to update Delivery Service Providers leaders of important customizable updates via text, email, and Slack messages"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Central Operations Delivery Services - Communication Service",
+      "description": "Designed, developed, and deployed from scratch a communication service to update Delivery Service Providers leaders of important customizable updates via text, email, and Slack messages",
+      "highlights": [
+        "Improved DSP leaders' response time by 25%",
+        "Service launched to DSPs in all of North America"
+      ],
+      "keywords": [
+        "React",
+        "Recoil",
+        "Node.js",
+        "Rest APIs",
+        "UX/UI",
+        "AWS CDK",
+        "AWS Lambda",
+        "AWS Simple Queue Service",
+        "AWS Simple Notification Service",
+        "AWS Simple Email Service",
+        "AWS DynamoDB"
+      ],
+      "roles": [
+        "Lead UI Engineer",
+        "Lead System Designer",
+        "Backend Engineer"
+      ],
+      "entity": "Amazon",
+      "type": "Application"
+    },
+    {
+      "name": "Central Operations Delivery Services - Chime Assistant",
+      "description": "Designed and developed an internal messaging relay system that managed messages for all of North America delivery drivers",
+      "highlights": [
+        "Improved resolved exceptions from drivers by 30%",
+        "Application allowed manual to automated process of for whole org"
+      ],
+      "keywords": [
+        "Vue.js",
+        "Node.js",
+        "Express.js",
+        "Docker",
+        "CouchDB"
+      ],
+      "roles": [
+        "Lead UI Engineer",
+        "Lead System Designer"
+      ],
+      "entity": "Amazon",
+      "type": "Application"
+    }
+  ]
+}
